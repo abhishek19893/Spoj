@@ -1,4 +1,4 @@
 Spoj
 ====
 
-Spoj DOTAA
+Spoj: codes of classical problems
