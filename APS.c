@@ -1,5 +1,6 @@
 // abhishek gupta
 //spoj: APS (Amazing Prime Sequence)
+http://www.spoj.com/problems/APS/
 //execution time: 0.3s
 
 #include<stdio.h>
