@@ -1,5 +1,6 @@
 //abhishek gupta
-//spoj: ACPC10A (What’s Next)
+//spoj: ACPC10A (What’s Next) 
+//http://www.spoj.com/problems/ACPC10A/
 //execution time = 0.00s
 
 #include<stdio.h>
