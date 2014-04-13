@@ -1,4 +1,8 @@
 //abhishek gupta
+//Spoj: DOTAA (Dota Heroes)
+http://www.spoj.com/problems/DOTAA/
+//execution time: 0.13s
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
