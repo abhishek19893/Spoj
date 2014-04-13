@@ -1,5 +1,6 @@
 // abhishek gupta
 // spoj: ACPC10D (Trigraph)
+http://www.spoj.com/problems/ACPC10D/
 //execution time = 0.26s
 
 #include<iostream>
